@@ -14,6 +14,8 @@
 # n = int(input())
 # for i in range(n):
 #     s = int(input())
+#     if s<0 or s>45:
+#         raise SyntaxError
 #     t = 0
 #     while True:
 #         t += 1
