@@ -1,0 +1,20 @@
+
+
+numbers=[1,2,3,4,5,6,7,8,9]
+def fine_number(sum, cache=[]):
+    if sum<=9 and sum in numbers:
+        cache.append(sum)
+        cache.sort(reverse=False)
+        return cache
+    else:
+        
+        i=max(numbers)
+        numbers.remove(i)
+        cache.append(i)
+        sum-=i
+        
+        return fine_number(sum)
+
+
+sum=int(input('please give me the number\n'))
+print(''.join(str(x) for x in fine_number(sum)))
