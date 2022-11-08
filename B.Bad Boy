@@ -1,0 +1,64 @@
+ 
+
+details=(input('please give me details\n')).split()
+
+
+#rows
+n=int(details[0])
+#columns
+m=int(details[1])
+#Anton's row
+i=int(details[2])
+#Anton's column
+j=int(details[3])
+
+
+def longest_travell (n,m,i,j):
+    x_position=(lambda x_position:n if n-i>i-1 else 1)
+    y_position=(lambda y_position:m if m-j>j-1 else 1)
+
+    return (back_position(x_position(x_position),y_position(y_position),n,m,i,j))
+
+def back_position (x_position,y_position,n,m,i,j):
+    
+    if x_position>=i :
+        if i!=1:
+            xb_position=i-1
+        elif i==1:
+            if n==1:
+                xb_position
+            else:
+                xb_position=2
+
+    elif i==1:
+        xb_position=2
+    elif x_position<=i :
+        if  i!=n:
+            xb_position=i+1
+        elif i==n:
+            xb_position=i-1
+
+    
+        
+    
+    if y_position>=j :
+        if j!=1:
+            yb_position=j-1
+        elif j==1:
+            if m==1:
+                yb_position=1
+            else:
+                yb_position=2
+    elif j==1:
+        yb_position=2
+    elif y_position<=j:
+        if  j!=m:
+            yb_position=j+1
+        elif j==m:
+            yb_position=i-1
+    
+
+    return [x_position,y_position,xb_position,yb_position]
+
+
+print(longest_travell(n,m,i,j))
