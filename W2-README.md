@@ -40,7 +40,7 @@
             <h4><li>pop()</li></h4>
             <h4><li>remove()</li></h4>
         </ol>
-    <h3><li>2 algorithm question which will be given</li></h3>
+    <h3><li>Two algorithm question which will be given</li></h3>
 </ol>
 <ul>
     <h2 dir="rtl"><li>جلسه آینده:</li></h2>
