@@ -1,5 +1,5 @@
-# ML3_EXERCISE_Week 1
-<h1>Week1: OOP</h1>
+# ML3_EXERCISE_Week 2
+<h1>Week2: OOP</h1>
 
 <ul>
     <h2 dir="rtl">
@@ -8,7 +8,7 @@
     </h2>
 </ul>  
 <ol>
-    <h3><li>OOP</li></h3>
+    <h3><li>OOP__</li></h3>
     <h3><li>Class Methods</li></h3>
     <h3><li>Magic/Dunder Methods</li></h3>
     <h3><li>Github</li></h3>
