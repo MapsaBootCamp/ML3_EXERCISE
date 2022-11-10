@@ -8,7 +8,7 @@
     </h2>
 </ul>  
 <ol>
-    <h3><li>OOP__</li></h3>
+    <h3><li>OOP</li></h3>
     <h3><li>Class Methods</li></h3>
     <h3><li>Magic/Dunder Methods</li></h3>
     <h3><li>Github</li></h3>
