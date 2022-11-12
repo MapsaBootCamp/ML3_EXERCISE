@@ -29,6 +29,6 @@
         <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* Series
         <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* DataFrame
 
-⚪️ For next week: 
+⚪️ On next week: 
 <br>&emsp;&ensp;intro to visualization 
 
