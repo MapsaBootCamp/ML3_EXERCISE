@@ -23,9 +23,8 @@
         <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* MeshGrid
         <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* Vectorization
         <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* numpy.where
-        <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* Calculus
-        
-<br>&emsp;&ensp;2-Scipy
+        <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* Calculus      
+&emsp;&ensp;2-Scipy
 <br>&emsp;&ensp;3-Pandas:
         <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* Series
         <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* DataFrame
