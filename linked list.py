@@ -19,11 +19,7 @@ class list:
         y.prev=x
         x.next=y
         return y
-    def delete(self,x):
-        x.prev.next=x.next
-        x.next.prev=x.prev
-        self.n-=1
-        return x
+    
     def delete(self,x):
         self.n-=1
         x.prev.next=x.next
