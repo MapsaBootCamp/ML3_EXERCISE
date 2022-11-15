@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+imdb_movie_rank.csv
