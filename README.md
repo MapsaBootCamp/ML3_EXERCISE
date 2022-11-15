@@ -29,6 +29,11 @@
         <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* Series
         <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;* DataFrame
 
+⚪️ For next week:
+        <br>&emsp;&ensp;1- Complete the Week3_exercise.ipynb file 
+        <br>&emsp;&ensp;2- Project Dataset
+        
 ⚪️ On next week: 
-<br>&emsp;&ensp;intro to visualization 
+        <br>&emsp;&ensp;Intro to visualization 
+
 
