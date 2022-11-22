@@ -2,10 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+data_science.png
+imdb_movie_rank.csv
 # C extensions
+train.csv
 *.so
-
+imdb_movie_rank.csv
 # Distribution / packaging
 .Python
 build/
