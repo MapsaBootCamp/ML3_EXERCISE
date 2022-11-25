@@ -1,0 +1,398 @@
+Customer Id,Age,Employment Type,GraduateOrNot,AnnualIncome,FamilyMembers,ChronicDiseases,FrequentFlyer,EverTravelledAbroad
+Q5OK4L2Q5XNH,34,Government Sector,Yes,1300000,7,0,No,No
+CBHVMVE7TRP5,28,Private Sector/Self Employed,Yes,1450000,4,0,Yes,Yes
+9UGHQ91U4F0M,28,Private Sector/Self Employed,Yes,900000,9,1,No,Yes
+3UWXWMZK4ZGL,33,Private Sector/Self Employed,Yes,1500000,5,0,Yes,Yes
+5CGEMLMBOPES,26,Government Sector,Yes,500000,5,0,No,No
+SPJ0K6KGDGN7,27,Government Sector,Yes,1050000,5,0,Yes,No
+9EFRT3UC3PDN,27,Government Sector,Yes,1050000,4,0,No,No
+7BH09UOH5SVF,31,Government Sector,Yes,1300000,4,1,No,No
+VYY6N0NLM8UE,31,Government Sector,Yes,1300000,4,0,No,No
+NVER903056B7,33,Government Sector,Yes,700000,3,0,No,No
+WRHLQZGSZ8L6,33,Government Sector,Yes,1000000,4,1,No,No
+FU9LL0FQCNOP,28,Private Sector/Self Employed,Yes,800000,7,0,No,No
+PC4N9XPMSQSA,32,Government Sector,Yes,350000,6,0,No,No
+5N6XLMQL0V3K,25,Private Sector/Self Employed,Yes,1400000,4,0,Yes,Yes
+EG7O0UFBKDUG,28,Private Sector/Self Employed,Yes,700000,4,0,Yes,No
+PY0ZWYLSCJZN,29,Private Sector/Self Employed,Yes,1050000,7,0,Yes,No
+N1UGI6V7H2WF,29,Private Sector/Self Employed,Yes,1100000,8,0,No,No
+MZOC6IE8IMNV,26,Private Sector/Self Employed,Yes,1400000,6,0,No,Yes
+HDPPLWUTUDQ1,26,Private Sector/Self Employed,Yes,1500000,4,0,Yes,Yes
+ZCOU6WAGN26Y,28,Private Sector/Self Employed,Yes,1150000,6,1,No,No
+MHVC11TV0MGA,29,Private Sector/Self Employed,Yes,1200000,9,1,Yes,No
+WI63WG1KBKZ6,29,Private Sector/Self Employed,Yes,1050000,3,0,Yes,No
+T2IZWIEZDJ0C,31,Private Sector/Self Employed,Yes,1250000,7,0,No,No
+R0D8BZ9552RG,28,Private Sector/Self Employed,Yes,1250000,6,0,No,Yes
+SA7E3RJY86MZ,28,Government Sector,Yes,300000,3,1,No,No
+XDNO84VA3P7H,29,Private Sector/Self Employed,Yes,1050000,4,0,No,No
+5XA7H43SW76F,32,Government Sector,Yes,350000,6,1,No,No
+ZP06NQEP3Z6K,30,Private Sector/Self Employed,No,650000,6,0,Yes,No
+AY113SQ9H4BJ,34,Private Sector/Self Employed,Yes,1500000,3,1,Yes,Yes
+HLT8JUJLAJEF,28,Private Sector/Self Employed,Yes,550000,4,0,No,No
+Z2SZEAUNILWX,34,Private Sector/Self Employed,Yes,1300000,3,0,No,No
+T3LZ5Y77PTZA,30,Private Sector/Self Employed,No,550000,7,0,Yes,No
+CPE6L9FCCPOI,26,Private Sector/Self Employed,Yes,1500000,6,0,Yes,Yes
+2WFF7OD1QSBB,26,Government Sector,Yes,1450000,3,0,Yes,Yes
+40ZCZ5JB1EBG,25,Government Sector,Yes,750000,3,0,No,No
+9UJEWJSQ3LT1,29,Private Sector/Self Employed,Yes,500000,4,0,No,No
+1OUNUKM23I42,29,Private Sector/Self Employed,Yes,500000,3,1,No,No
+XU3RFC2L0LZG,25,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+UHEDKKMNF58W,29,Private Sector/Self Employed,Yes,1350000,4,0,No,Yes
+9YWZ8J7UCMQ7,28,Private Sector/Self Employed,Yes,700000,7,0,Yes,No
+4T2SO9DSWH9E,32,Government Sector,Yes,850000,5,1,Yes,No
+33E7RTVWQ3FN,31,Private Sector/Self Employed,Yes,1250000,7,0,No,No
+M9AQOH3SYYBR,28,Private Sector/Self Employed,Yes,1200000,3,0,No,No
+FUTCMN69MGAH,26,Private Sector/Self Employed,Yes,600000,3,0,Yes,No
+W9XOYIFUQPW4,35,Private Sector/Self Employed,No,800000,5,0,No,No
+JO9BNZRBO0CA,31,Private Sector/Self Employed,Yes,1400000,2,0,No,Yes
+X72IQEIU1QKM,33,Government Sector,Yes,650000,5,1,No,No
+VCV8VAM4N7HS,25,Private Sector/Self Employed,No,1150000,6,1,No,No
+MI48MY1LTM4M,31,Private Sector/Self Employed,Yes,950000,7,0,Yes,No
+WA6DE0HPRBMB,28,Private Sector/Self Employed,Yes,900000,4,0,Yes,No
+2YRA9VKRZOQE,27,Government Sector,Yes,850000,5,0,Yes,No
+97I94WYVT5PC,33,Government Sector,Yes,400000,9,1,No,No
+FSM0JLCCR7AY,28,Private Sector/Self Employed,Yes,800000,3,0,No,No
+UPHJGLQV45WW,28,Private Sector/Self Employed,Yes,700000,3,1,No,Yes
+KW9LR65SYQGF,28,Private Sector/Self Employed,Yes,700000,3,0,No,No
+DQOTO5YKORYK,28,Private Sector/Self Employed,Yes,800000,5,1,No,No
+UCXCBC9USUDU,30,Private Sector/Self Employed,No,800000,4,0,No,No
+7Z0GRZCXFSZ1,25,Private Sector/Self Employed,No,600000,3,0,No,No
+5CL12W44TUOV,35,Private Sector/Self Employed,No,950000,2,1,No,No
+YAW9ZQTN585R,28,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+45RRIO9P4RJC,28,Private Sector/Self Employed,Yes,600000,3,0,No,No
+VGK40ERV74UP,28,Private Sector/Self Employed,Yes,1100000,5,1,No,No
+KG6S0570ID9R,28,Government Sector,Yes,600000,9,0,Yes,No
+5BXS7ANQ514H,29,Private Sector/Self Employed,Yes,900000,4,0,No,No
+H77VQDOX554E,28,Government Sector,Yes,600000,4,0,No,No
+YRCFUBSU5D1G,31,Government Sector,No,400000,8,0,No,No
+0ULO02BLHX2H,29,Private Sector/Self Employed,Yes,900000,7,0,No,No
+B2SW8YEOZ708,31,Government Sector,Yes,400000,3,0,No,No
+601HAL683PXN,31,Private Sector/Self Employed,Yes,1250000,9,1,No,No
+FOM5OYRTB2CG,31,Government Sector,Yes,1300000,4,0,No,No
+9SNEPC1R7A40,28,Private Sector/Self Employed,Yes,1150000,2,1,Yes,No
+3YP8RJO1M9BF,28,Private Sector/Self Employed,Yes,800000,7,0,No,No
+FTF7UYBXX3WN,34,Private Sector/Self Employed,Yes,1300000,5,0,No,No
+WV1LJL1E1TQG,25,Government Sector,Yes,750000,3,1,No,No
+1BXKLACYUD7N,30,Private Sector/Self Employed,No,1450000,7,0,Yes,Yes
+K8OV1RBD6NAS,28,Government Sector,No,300000,6,1,No,No
+VR5BX4ZDA6HO,28,Private Sector/Self Employed,Yes,900000,4,0,No,No
+VZY3703GOWWB,33,Government Sector,Yes,1100000,4,0,No,No
+FFL9C6CIZ6IQ,29,Private Sector/Self Employed,Yes,1100000,6,0,Yes,No
+5FUE0YKFHXD6,28,Private Sector/Self Employed,Yes,1300000,4,1,No,No
+YA6XB9JXFHKQ,26,Private Sector/Self Employed,Yes,1400000,5,0,Yes,Yes
+3VU3ECMYJFFD,29,Private Sector/Self Employed,Yes,1200000,7,0,No,No
+VB20LQQ6BD8E,28,Private Sector/Self Employed,Yes,700000,5,0,No,No
+CRBUKGWCBAJI,27,Private Sector/Self Employed,No,450000,3,0,No,No
+0TT54U36ZJAU,32,Government Sector,Yes,900000,5,0,No,No
+GZHYLL80A15A,34,Private Sector/Self Employed,Yes,500000,5,0,No,No
+YEJ1ZAEG328N,34,Private Sector/Self Employed,No,1400000,4,0,No,Yes
+3CTD0580ZN2W,27,Government Sector,Yes,500000,4,1,No,No
+TEORBES9MBU1,28,Government Sector,Yes,600000,3,0,No,No
+G71B80T0KII9,27,Government Sector,Yes,850000,5,0,No,No
+1H0DXXO2LL8V,27,Private Sector/Self Employed,No,800000,6,0,No,No
+J9WRU0F6GX4Y,34,Private Sector/Self Employed,Yes,500000,5,0,No,No
+4EY5NHSX2D90,28,Private Sector/Self Employed,Yes,550000,8,0,No,No
+RGA4IJAMKB11,34,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+PTYYTFT7Y0T0,30,Private Sector/Self Employed,No,650000,6,1,No,No
+9YQ73D4EFSTU,26,Private Sector/Self Employed,Yes,1400000,5,0,Yes,Yes
+BGP67X6XEUEH,34,Private Sector/Self Employed,Yes,700000,5,0,No,No
+8MFFQE4I8RAD,33,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+8QE237RPLQ6O,27,Government Sector,Yes,750000,5,0,No,No
+EY3QB8SUBXC6,25,Private Sector/Self Employed,No,1700000,4,0,Yes,No
+EV6WYCP9JSVM,26,Private Sector/Self Employed,Yes,750000,3,0,No,No
+6UMOLSY0CD7Y,31,Government Sector,No,300000,5,0,No,No
+NAVEVOGULGOO,28,Private Sector/Self Employed,Yes,1150000,7,0,No,No
+2SLGKXO0J0TO,26,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+MPVN5UNQO77G,28,Private Sector/Self Employed,Yes,750000,4,0,No,No
+BY11TELFYIFB,33,Government Sector,Yes,1000000,3,0,No,No
+SY6GNRWBUOER,25,Private Sector/Self Employed,No,1700000,5,0,Yes,Yes
+C0MEQCRKBKMZ,34,Private Sector/Self Employed,Yes,1500000,2,0,Yes,Yes
+ZA5J3V6X1ZLA,31,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+TOQ7FFYEEDC1,34,Government Sector,Yes,1300000,5,0,Yes,No
+T4IUC96SKJYH,33,Private Sector/Self Employed,Yes,750000,7,1,No,No
+D15H6GCWV42R,28,Government Sector,Yes,600000,4,1,No,No
+G3BLZLUFDTXE,28,Private Sector/Self Employed,Yes,500000,4,0,No,No
+JFCM42IC7AGV,28,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+PJCGECEOKQU0,28,Government Sector,Yes,300000,4,0,No,No
+9YPBEJBQQ2IM,30,Private Sector/Self Employed,No,550000,3,0,No,No
+PIZK163UW49S,34,Private Sector/Self Employed,Yes,1500000,4,1,Yes,Yes
+83TIUUHFRH0I,28,Government Sector,Yes,600000,5,0,No,No
+TVA98UGCJLXL,34,Private Sector/Self Employed,Yes,1000000,6,0,No,No
+LS0C4TNGHYDN,29,Private Sector/Self Employed,Yes,900000,5,0,No,No
+HKJO9TV9CIFS,33,Private Sector/Self Employed,Yes,1400000,5,0,Yes,Yes
+A3H6VIJ8EBSG,28,Private Sector/Self Employed,Yes,1100000,3,0,No,No
+SQM0J39NJV7Z,31,Private Sector/Self Employed,Yes,1400000,6,0,Yes,Yes
+3REX0554TY45,29,Private Sector/Self Employed,Yes,500000,7,0,No,No
+W3TZJLZIBYOZ,28,Private Sector/Self Employed,No,550000,5,0,Yes,No
+NZVQDMDE7PG5,26,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+6C7IF04G8CTP,35,Government Sector,Yes,1100000,3,1,No,No
+0GP2EQWIGAB8,31,Government Sector,No,400000,3,0,No,No
+AKPYR0SWUP51,34,Government Sector,Yes,1300000,5,0,No,No
+SUZLRXQ1D72A,35,Private Sector/Self Employed,No,800000,5,0,No,No
+28QDD1Z8V8JB,28,Private Sector/Self Employed,Yes,700000,5,1,No,No
+SZ2H5UGLUC8G,25,Private Sector/Self Employed,Yes,1400000,5,0,Yes,Yes
+5D3483DC72BM,34,Private Sector/Self Employed,Yes,700000,7,1,No,No
+FMG5DBT7OTH3,31,Private Sector/Self Employed,Yes,1400000,3,0,No,Yes
+SMTJZVC119IW,29,Private Sector/Self Employed,Yes,500000,4,0,No,No
+IM3WRLREKPL6,33,Government Sector,Yes,1100000,8,0,No,No
+7KV1GJ03X8W5,28,Government Sector,Yes,600000,4,0,No,No
+YNB3PHEUX049,34,Private Sector/Self Employed,No,1300000,4,0,No,No
+P5N2FU3LRAER,30,Private Sector/Self Employed,No,550000,3,1,No,No
+VUPDVNKWD45Z,31,Government Sector,No,300000,7,0,No,No
+J5MN02VDHC0H,28,Government Sector,Yes,600000,4,0,No,No
+GWTRYW3GSTGA,25,Private Sector/Self Employed,Yes,1800000,7,1,Yes,No
+K49CAO9SY5WA,34,Private Sector/Self Employed,No,750000,4,0,Yes,No
+SDBSMCGDYUZF,28,Government Sector,Yes,600000,9,0,No,No
+OMI0X9YUCUN0,34,Private Sector/Self Employed,Yes,500000,4,0,No,No
+PHVNF2GQARPU,28,Private Sector/Self Employed,Yes,1200000,5,0,No,No
+GLQ2UYGF3L3R,28,Government Sector,Yes,300000,6,0,No,No
+UK3LHF4NDDKN,31,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+2CU0D33Y1Q4R,26,Private Sector/Self Employed,Yes,1400000,5,0,No,Yes
+N34G2ZVTVA2D,27,Private Sector/Self Employed,No,600000,3,0,No,Yes
+7G3PPXCQ644V,27,Government Sector,Yes,1050000,3,0,No,No
+1XP6QTS4WIM7,28,Private Sector/Self Employed,Yes,1150000,6,1,No,No
+SEJQUEYJJ249,27,Government Sector,Yes,850000,2,0,No,Yes
+Y2OM6QA13VH6,25,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+NO85N3SIF7L4,31,Government Sector,No,300000,4,0,No,No
+JD6PJ9PWILNX,28,Private Sector/Self Employed,Yes,1300000,6,0,No,No
+7PNHP54URB6D,27,Government Sector,Yes,1050000,5,1,No,No
+4L87O74SMNOV,34,Government Sector,Yes,1100000,4,0,No,No
+5L4LXF4T56UB,27,Government Sector,Yes,750000,5,0,No,No
+N6ZFGKWJP912,27,Government Sector,Yes,1050000,5,0,No,No
+HAVA366SLZ0M,27,Government Sector,Yes,1050000,4,0,No,No
+58TJ9T7OC3MF,28,Private Sector/Self Employed,Yes,1200000,3,0,No,No
+5DE183IQM7H9,33,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+D7NQKKW1Q7YI,26,Private Sector/Self Employed,Yes,500000,5,1,No,No
+O66MEC9F7H54,28,Government Sector,Yes,600000,4,0,No,No
+EHIXPO7T4Z9H,28,Government Sector,Yes,1200000,3,0,No,No
+VE4A2V3Q8WC4,33,Government Sector,Yes,400000,5,0,No,No
+AO1SRI3DVAZW,32,Government Sector,Yes,850000,7,0,Yes,Yes
+VNPMDP0OMDYT,34,Private Sector/Self Employed,Yes,1500000,6,0,Yes,Yes
+7VS4H83F18UA,27,Government Sector,Yes,500000,4,1,No,No
+CMIHMQTLAXWP,26,Private Sector/Self Employed,Yes,1300000,5,0,No,No
+BQTQMJR6F4ZN,33,Government Sector,Yes,1100000,4,0,No,No
+F091BCM3W01K,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+9GIZ2EDVRLWJ,25,Private Sector/Self Employed,No,1150000,4,0,No,No
+X1F5GA10EGW2,34,Government Sector,Yes,1300000,7,1,No,No
+UOQXCL7FDN6W,34,Private Sector/Self Employed,Yes,1300000,5,0,No,Yes
+FCOYZYHNYGVH,26,Private Sector/Self Employed,Yes,1400000,4,0,No,Yes
+CE3Q7PKINAVQ,32,Government Sector,Yes,800000,4,0,No,No
+QGD8B2PAHZ6L,34,Private Sector/Self Employed,Yes,1000000,2,0,No,No
+MLIBHN453LJQ,33,Government Sector,Yes,650000,3,0,No,No
+N7K0L7EMGCO6,33,Private Sector/Self Employed,Yes,750000,4,0,No,No
+3YR06LUI7LU7,29,Private Sector/Self Employed,Yes,1200000,7,0,No,No
+WN20SE8YOVWV,27,Government Sector,Yes,850000,3,0,No,Yes
+NLW0WEO4VYJF,34,Private Sector/Self Employed,Yes,500000,6,0,No,No
+D4XUCXPBBPV3,26,Private Sector/Self Employed,Yes,1500000,5,1,Yes,Yes
+9VUFS0OZX5Z3,29,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+297BI8867BFN,31,Government Sector,Yes,400000,5,0,No,No
+VQ4UI9R9XISF,34,Private Sector/Self Employed,Yes,500000,3,0,No,No
+J1J2OATNQOFK,35,Private Sector/Self Employed,No,800000,4,0,No,No
+0WYGRR9ZD48K,28,Government Sector,Yes,300000,3,0,No,No
+G04VM18NT298,27,Private Sector/Self Employed,No,800000,7,0,No,No
+AGLVD50YWY8A,25,Government Sector,Yes,750000,2,0,Yes,No
+LIJT671XZ62T,33,Government Sector,Yes,400000,9,0,No,No
+FMM5UTX1QQZN,33,Government Sector,Yes,400000,7,1,No,No
+NBE3A806JL5F,28,Private Sector/Self Employed,Yes,1100000,4,1,No,No
+V6FDY8ZMJHT7,27,Private Sector/Self Employed,No,1550000,7,0,Yes,No
+4U2XJ6271915,33,Government Sector,Yes,800000,5,1,No,No
+QMW0R74SG4EJ,31,Private Sector/Self Employed,Yes,500000,4,1,No,No
+H8TTLBTXA004,31,Private Sector/Self Employed,Yes,1250000,6,0,No,No
+6IQUHI4IAG5S,26,Private Sector/Self Employed,Yes,500000,5,0,No,No
+FI6WW6C9VUAX,32,Government Sector,Yes,350000,3,0,No,No
+WNGZ1MTX92OG,25,Private Sector/Self Employed,Yes,1700000,2,1,Yes,No
+JCF5QGO6CROG,28,Government Sector,Yes,1200000,5,0,No,No
+9E2LX3L8ETSA,34,Private Sector/Self Employed,Yes,1050000,5,0,No,No
+M7IQC8TO8JKB,31,Government Sector,No,350000,4,1,No,No
+ME3M7WM6T32B,25,Private Sector/Self Employed,Yes,1800000,6,0,Yes,No
+EK55FNFX9Q72,26,Private Sector/Self Employed,Yes,1400000,3,1,No,Yes
+652EVX4P1R3J,28,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+YOXRHT1V7FD3,26,Private Sector/Self Employed,Yes,1300000,3,0,No,No
+37KGNRIHP8NO,26,Private Sector/Self Employed,Yes,1400000,9,1,No,Yes
+E248WCNPHX5W,28,Private Sector/Self Employed,Yes,1200000,5,0,Yes,No
+YI8YE6S0FDI9,31,Private Sector/Self Employed,Yes,1350000,3,0,No,Yes
+X1YG6QWAK86S,34,Private Sector/Self Employed,Yes,1300000,6,1,No,No
+PRNA7A5D4V7Z,34,Private Sector/Self Employed,Yes,1300000,5,1,No,No
+1MZLUFQ2H718,28,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+NAWDR2QOSPZN,29,Private Sector/Self Employed,Yes,1350000,6,0,No,Yes
+84N25UU1VDZ7,35,Private Sector/Self Employed,No,800000,6,0,No,No
+RW4TACYQD7TN,34,Government Sector,Yes,1300000,6,0,No,Yes
+XU7J0KZAYTF2,28,Government Sector,Yes,300000,6,0,No,No
+XVKE0VPB65XT,31,Government Sector,No,300000,3,0,No,No
+NELDECJH8JRE,25,Private Sector/Self Employed,Yes,1400000,6,0,Yes,Yes
+QT226WRIYPMU,28,Private Sector/Self Employed,Yes,800000,4,0,No,No
+DFXZBIAF4FO4,25,Private Sector/Self Employed,No,1150000,4,0,No,No
+893Q9C6L1A9I,33,Government Sector,Yes,800000,4,0,No,No
+APR9MBD19RF3,34,Private Sector/Self Employed,No,1300000,5,1,No,No
+TECGU8NZHCBR,31,Private Sector/Self Employed,Yes,900000,4,0,No,No
+FZUCYJ2A59A4,27,Government Sector,Yes,750000,5,0,No,No
+8D5EJ5PR7MGI,29,Private Sector/Self Employed,Yes,1100000,5,0,Yes,No
+IDJPBC358MBR,25,Private Sector/Self Employed,No,1150000,8,0,No,No
+LQSEDH382NSL,31,Government Sector,No,300000,3,0,No,No
+772FMP9V82HE,34,Private Sector/Self Employed,Yes,1000000,5,0,Yes,No
+7MWS30ZU1X9T,34,Private Sector/Self Employed,Yes,1000000,5,0,No,No
+5XHG6C0WCYFW,25,Private Sector/Self Employed,No,1150000,4,1,No,No
+9DC62VREM4P5,29,Private Sector/Self Employed,Yes,1150000,5,0,Yes,No
+WVKMH333KJH5,34,Private Sector/Self Employed,Yes,700000,4,0,No,No
+BXPPXF7AV9DK,27,Government Sector,Yes,500000,3,1,No,No
+78IYLCFC38KF,32,Government Sector,Yes,800000,5,0,Yes,No
+9M96CIQHVVVE,28,Government Sector,Yes,300000,3,0,No,No
+QUQLQ77VLMJI,34,Private Sector/Self Employed,No,1400000,3,0,Yes,Yes
+2FRIT5RX4IMK,34,Private Sector/Self Employed,Yes,500000,4,0,No,No
+ALIYXHLRRENA,32,Government Sector,Yes,900000,4,0,Yes,No
+HNPE8NXPPZRR,31,Private Sector/Self Employed,Yes,1400000,6,1,No,Yes
+ZQTI3Z91DEPJ,34,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+KV8XSGW3GN89,28,Government Sector,Yes,300000,3,1,No,No
+R3ZCG1SLSWKD,26,Private Sector/Self Employed,Yes,1500000,5,1,Yes,Yes
+OK8ZSJZ4PAL2,32,Government Sector,Yes,350000,3,1,No,No
+Q18FDOQ7SWAN,28,Government Sector,Yes,300000,4,0,No,No
+TT87EQ3ID673,34,Private Sector/Self Employed,Yes,1000000,6,1,No,No
+YQXAKC26VANV,34,Government Sector,Yes,1300000,7,1,No,Yes
+JX11MN1KK8IK,33,Private Sector/Self Employed,Yes,1500000,3,1,Yes,Yes
+ACUJVWHSHMOS,34,Private Sector/Self Employed,Yes,1300000,6,0,No,No
+567T04ZBELBC,28,Private Sector/Self Employed,Yes,750000,2,0,No,No
+DWLQBX6LYCBZ,26,Private Sector/Self Employed,Yes,750000,5,1,No,No
+GRMPI2MI077L,34,Government Sector,Yes,1100000,6,1,No,No
+SWK48DFRHFJL,28,Private Sector/Self Employed,Yes,700000,7,1,No,No
+J8Y76Y707D0Q,32,Government Sector,Yes,800000,6,0,No,No
+01J3KFMHSOYK,33,Private Sector/Self Employed,Yes,550000,5,0,No,No
+QYE593T5WA7G,34,Private Sector/Self Employed,No,950000,4,0,Yes,No
+OHAB7MK661OQ,34,Private Sector/Self Employed,Yes,1000000,4,1,No,No
+UX10OHMFKOOX,34,Government Sector,Yes,1300000,9,1,No,No
+KG2TALV5VZIV,29,Private Sector/Self Employed,Yes,1050000,7,0,No,No
+VYCMV99IM1E3,30,Private Sector/Self Employed,No,650000,5,0,No,No
+QN9J18V4JOBY,25,Private Sector/Self Employed,Yes,1400000,5,1,Yes,Yes
+IM4JN6BKK1YN,29,Private Sector/Self Employed,Yes,900000,3,0,No,No
+YK8X489TGJP4,33,Private Sector/Self Employed,Yes,1500000,7,0,Yes,Yes
+E1PN68XOT6FI,32,Government Sector,Yes,800000,3,1,No,No
+LLW5H9DM4DQ7,31,Private Sector/Self Employed,Yes,1350000,5,0,No,Yes
+SSUKLO8V0HIO,34,Private Sector/Self Employed,Yes,500000,4,0,No,No
+HOESPKLQ3L0O,34,Private Sector/Self Employed,Yes,1050000,7,0,No,No
+CE0BOB44QW5G,34,Government Sector,Yes,1100000,3,0,No,No
+PAJV1DHQ6ON1,33,Government Sector,Yes,800000,6,1,No,No
+NAFUZO1OELXN,33,Government Sector,No,400000,4,0,No,No
+ACEZDHLKLA1W,33,Government Sector,Yes,1100000,5,0,No,No
+W70CRD0G57HI,35,Government Sector,Yes,1100000,3,0,No,No
+TQVO2G8K8K9C,33,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+H7Q4LFE6EABJ,26,Private Sector/Self Employed,Yes,1250000,4,1,No,Yes
+A0AK66S05C7G,31,Government Sector,No,300000,4,0,No,No
+D4JT5XNSFM51,31,Private Sector/Self Employed,Yes,500000,6,0,No,No
+8NN1J6J6DUL0,28,Private Sector/Self Employed,Yes,800000,7,0,No,No
+2XTCG1C3PMVM,31,Government Sector,No,1750000,2,0,No,No
+9RT2SE95HUTM,27,Government Sector,Yes,500000,6,0,No,No
+QSWXLGWXYK6J,31,Private Sector/Self Employed,Yes,950000,5,1,No,No
+QJHJM6SRFUPA,31,Private Sector/Self Employed,Yes,1350000,3,0,Yes,Yes
+O7XPVQVWXDF9,31,Government Sector,Yes,400000,6,0,No,No
+307P747F1PEU,28,Government Sector,Yes,300000,4,1,No,No
+UH7SKD1613JH,32,Government Sector,Yes,850000,3,0,Yes,No
+CD6TVXTZ9DNT,28,Government Sector,Yes,1200000,7,1,No,No
+MTKIAQIQJKY3,28,Private Sector/Self Employed,Yes,1100000,4,0,No,No
+5F9I5P13LN31,28,Private Sector/Self Employed,Yes,700000,4,1,No,Yes
+WSYZZ8QMFKA0,28,Private Sector/Self Employed,Yes,1200000,9,0,No,No
+X808V1E2X3LP,28,Private Sector/Self Employed,Yes,1150000,6,1,No,No
+VNOQE325D0M0,35,Government Sector,Yes,1100000,2,1,No,No
+TLSA9RCWD8VE,27,Private Sector/Self Employed,No,1550000,6,1,Yes,No
+8BHHDH67S2TQ,34,Private Sector/Self Employed,No,1300000,5,0,Yes,No
+9HN7ECG7UL7Z,30,Private Sector/Self Employed,No,550000,6,0,Yes,Yes
+E5SBCKESPTEC,28,Government Sector,Yes,600000,5,0,No,No
+XDZP31MLASFN,29,Private Sector/Self Employed,Yes,1200000,5,1,No,No
+K39MIZJAM9CG,28,Government Sector,Yes,300000,3,0,No,No
+G2LKRAXWWXL8,28,Government Sector,Yes,300000,5,0,No,No
+Q0YPCKQYG8K4,28,Government Sector,No,300000,7,1,No,No
+WQBZVD6P8V8L,31,Government Sector,Yes,400000,3,0,No,No
+SZ063LJZWX0Y,29,Private Sector/Self Employed,Yes,500000,4,0,No,No
+BETYM5Y2K23T,26,Private Sector/Self Employed,Yes,600000,6,0,Yes,No
+TGC5KS2C7OMB,32,Government Sector,Yes,350000,9,1,No,No
+8Q0LRTYSB6KV,28,Government Sector,Yes,300000,5,1,No,No
+CZMAYIJL3GW3,31,Private Sector/Self Employed,Yes,950000,3,0,Yes,No
+UXR2KYJJTKGH,28,Private Sector/Self Employed,Yes,1450000,6,0,Yes,Yes
+AE5PI2OEI8SU,28,Private Sector/Self Employed,Yes,900000,3,0,No,No
+L17J857RSTTI,28,Private Sector/Self Employed,Yes,550000,5,0,No,No
+412CNI1T4EU6,27,Private Sector/Self Employed,No,600000,6,0,No,No
+0RARWFXAGY4Y,25,Private Sector/Self Employed,No,1700000,4,0,Yes,No
+WZX6FMF0KGW5,25,Private Sector/Self Employed,Yes,1400000,3,1,Yes,Yes
+WZPRRZ5RQZ06,29,Private Sector/Self Employed,Yes,350000,6,1,No,No
+BGQAXVAHQ3ZX,31,Government Sector,Yes,1500000,4,0,Yes,Yes
+1EG2BQYRF4RP,28,Private Sector/Self Employed,No,550000,3,0,No,No
+DYL7S6TSH3FQ,25,Private Sector/Self Employed,Yes,1700000,4,0,Yes,No
+YATJNP0ATXQ6,28,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+GVDWL1TFJ1OP,31,Private Sector/Self Employed,Yes,1250000,4,0,No,Yes
+JBNSRNI427V4,32,Government Sector,Yes,800000,6,0,Yes,No
+5AA3RCV59JMR,32,Government Sector,Yes,650000,3,0,No,No
+J8KXVRW9JYM0,27,Government Sector,Yes,1050000,2,0,No,No
+0F8R4Z9SWTRY,31,Private Sector/Self Employed,Yes,900000,8,0,No,Yes
+C0CT5ENUJZWB,31,Government Sector,No,300000,5,0,No,No
+9V15PL0AT9RE,25,Private Sector/Self Employed,No,1350000,4,0,No,Yes
+M8ELTAL9NP88,25,Private Sector/Self Employed,Yes,1700000,3,0,Yes,No
+0W1VC2TU9G86,34,Private Sector/Self Employed,Yes,1050000,5,0,Yes,No
+5BZOWNDY0NR1,28,Government Sector,Yes,300000,5,0,No,No
+WQI6H4AVI5U3,28,Private Sector/Self Employed,Yes,550000,5,1,No,No
+RX989U7VG9E1,33,Government Sector,Yes,1100000,3,0,No,No
+XFMYS5S5UD6M,27,Government Sector,Yes,500000,3,0,No,No
+2Q5HY0EURE15,29,Private Sector/Self Employed,Yes,500000,5,0,No,No
+GE9MI25N9WQY,33,Government Sector,Yes,600000,3,0,No,No
+3FNP3MP38GYU,31,Government Sector,Yes,400000,6,1,No,No
+ZVH36NP8OG4D,29,Private Sector/Self Employed,Yes,900000,7,0,Yes,No
+FW8SMMMPY4WU,28,Private Sector/Self Employed,Yes,750000,3,1,No,No
+O4A0OAXTM03N,28,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+3GR83WEEQSV8,28,Private Sector/Self Employed,Yes,1150000,6,1,No,No
+UDLVUD5IAZSD,28,Private Sector/Self Employed,Yes,800000,9,0,No,No
+QASEMI999VQS,30,Private Sector/Self Employed,No,650000,4,0,No,No
+X6ROFOLPMV9W,28,Private Sector/Self Employed,Yes,1150000,4,1,No,No
+3Q388GKKWUZH,25,Private Sector/Self Employed,No,1700000,5,1,Yes,Yes
+EXJFKEQ2TJ0P,34,Private Sector/Self Employed,Yes,1300000,7,0,No,No
+FANEVXELT49J,28,Private Sector/Self Employed,Yes,750000,3,0,No,No
+MYGYHGCEATIH,34,Government Sector,Yes,1300000,5,1,No,Yes
+UQ03LL4ATH8M,28,Private Sector/Self Employed,Yes,1150000,6,1,No,No
+HRRK5MPSGSV2,33,Private Sector/Self Employed,Yes,1400000,8,1,No,Yes
+KGMXFOD1WZZV,29,Private Sector/Self Employed,Yes,1050000,4,0,No,No
+JCWRXSFRCERF,33,Government Sector,Yes,400000,5,1,No,No
+FOX1YSDWFEGQ,34,Private Sector/Self Employed,No,1300000,5,0,No,No
+V4XLSROPQPD1,33,Private Sector/Self Employed,Yes,1500000,3,0,Yes,Yes
+U37F5D4U2OS2,28,Government Sector,Yes,300000,7,1,No,No
+CUH38GMHNOU4,28,Private Sector/Self Employed,Yes,1100000,4,1,Yes,No
+ROQRPJHWEX1M,31,Private Sector/Self Employed,Yes,900000,3,0,No,No
+XBYGLKPWC7QG,25,Private Sector/Self Employed,No,1700000,6,0,Yes,No
+M2734GSVMZO3,31,Private Sector/Self Employed,Yes,950000,3,0,Yes,No
+LOAVO7K4NBU5,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+J3D60BHWHOWI,28,Private Sector/Self Employed,Yes,700000,7,1,Yes,Yes
+QIDBYFQG6LYN,28,Private Sector/Self Employed,Yes,1300000,3,0,No,No
+9VM3F2Z5VYOL,33,Private Sector/Self Employed,Yes,1400000,7,0,No,Yes
+UJZ78FOQHCQD,31,Government Sector,Yes,1300000,3,0,No,Yes
+JQQQEJIC25Q9,28,Private Sector/Self Employed,Yes,1100000,5,0,No,No
+W1GDY1SAL6QG,28,Private Sector/Self Employed,Yes,1100000,3,0,No,No
+B9QMO1BV0JUW,27,Government Sector,Yes,500000,3,1,No,No
+4UTLX3CJSRVK,33,Private Sector/Self Employed,Yes,1400000,2,1,No,Yes
+0H5Y5LI6PTT4,28,Government Sector,Yes,300000,5,0,No,No
+DRNMGQ7UIU49,31,Private Sector/Self Employed,Yes,1250000,4,0,No,No
+FTKS0A5Y7W2Y,29,Private Sector/Self Employed,Yes,500000,6,0,No,No
+TMQ2Q4YPVAOP,28,Private Sector/Self Employed,Yes,750000,4,0,Yes,No
+GNA46LRTKPEK,34,Government Sector,Yes,1300000,6,0,No,No
+XGH2H0GWBNFD,31,Government Sector,Yes,1200000,6,0,No,No
+XXCNZB2COVXZ,34,Private Sector/Self Employed,No,1300000,6,0,No,No
+7M23LC9BOL6E,26,Private Sector/Self Employed,Yes,1400000,6,0,No,Yes
+CZ8AGD9TQHOU,29,Private Sector/Self Employed,Yes,1350000,3,1,Yes,Yes
+H5UYRGVUOT07,25,Private Sector/Self Employed,No,1150000,5,1,No,No
+66D7SXR2TV47,28,Private Sector/Self Employed,Yes,900000,2,0,Yes,No
+ZJ1POKFH28XX,25,Private Sector/Self Employed,No,1150000,3,1,No,Yes
+75T7UOODGNNF,25,Private Sector/Self Employed,Yes,1700000,5,1,Yes,No
+EX2TE1RD9KMX,31,Private Sector/Self Employed,Yes,500000,6,0,No,No
+CEQYKJNOK2Z2,29,Private Sector/Self Employed,Yes,1200000,5,0,No,No
+76DJOYWROQUZ,29,Private Sector/Self Employed,Yes,1200000,4,0,No,No
+ZRN4REIDC6HB,28,Private Sector/Self Employed,Yes,500000,9,0,No,No
+RVKZNCV7O64F,29,Private Sector/Self Employed,Yes,600000,8,1,No,No
+6BHXBF52EFQ1,27,Government Sector,Yes,850000,5,0,No,No
+2CRC2LOEQE52,34,Private Sector/Self Employed,Yes,1050000,4,0,No,No
+FK9FA72HCXMF,33,Private Sector/Self Employed,Yes,1200000,2,0,No,No
+FDGDWM14DMBW,29,Private Sector/Self Employed,Yes,1200000,4,0,Yes,No
+3DX6ELK6AHRZ,28,Private Sector/Self Employed,No,550000,7,0,No,No
+5937D7D840DH,31,Government Sector,No,400000,4,1,No,No
+9PI8I4OVIL36,35,Government Sector,Yes,900000,6,1,No,No
+Q2C0XIMP5KBG,25,Private Sector/Self Employed,No,1350000,3,1,Yes,Yes
+JROLCX6LL2RO,31,Government Sector,Yes,1200000,5,1,No,No
+C6P5QGVEVQTR,33,Government Sector,Yes,1000000,5,0,Yes,No
+3T4IU1ZJNDIA,32,Government Sector,Yes,800000,6,1,No,No
+N3ON6CQWDU4Z,30,Private Sector/Self Employed,No,800000,4,0,No,No
+LWW08WASNJ2T,28,Private Sector/Self Employed,Yes,1200000,5,1,No,No
+L2RAKTUJP4HS,28,Private Sector/Self Employed,Yes,550000,4,0,No,No
+6BPL2YN1MFAQ,28,Government Sector,Yes,1200000,5,0,No,No
