@@ -11,5 +11,6 @@
 
 ⚪️ For next week:
         <br>&emsp;&ensp;1- Crawl tsetmc.com 
+        <br>&emsp;&ensp;2- Crawl Jabinja
 
 
