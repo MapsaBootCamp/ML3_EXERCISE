@@ -12,4 +12,5 @@
         <br>&emsp;&ensp;2- Hands-on 2nd edition: study chapter 1 (page 1-30)
         <br>&emsp;&ensp;3- Week 7 Homework file
 
-
+⚪️ What I did:
+        <br>&emsp;&ensp;for column age which is string it is essential to cast it to float first then find 5 largest or 5 lowest
