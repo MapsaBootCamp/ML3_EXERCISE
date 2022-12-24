@@ -1,0 +1,35 @@
+What are Generative Models?
+Generative models are a type of machine learning algorithm that is used to generate new data samples based on a training set. For example, a generative model could be trained on a dataset of pictures of cats, and then used to generate new cat pictures. Or, a generative model trained on images of faces could be used to generate new images of faces that look realistic but are not necessarily identical to any of the training images. They are similar to discriminative models, but instead of predicting labels, they generate new data points. Generative models are often used for data augmentation, as they can help to improve the performance of machine learning models by providing more training data. Generative models can also be used for unsupervised learning, as they can learn the underlying distribution of the data. They are typically used for tasks such as image synthesis, voice synthesis, and natural language processing. 
+
+There are two main types of generative models: Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs). GANs consists of two neural networks, a generator and a discriminator, that compete with each other in order to generate realistic data. VAEs consist of an encoder and a decoder, which work together to compress data into latent variables and then generate new data from these latent variables.
+
+There are several benefits to using generative models. The following are some of them:
+
+One is that they can help us understand complex data sets. For example, if we want to know how a particular species of bird behaves, we can use a generative model to generate data about how that bird behaves. This can help us learn more about the species and how it interacts with its environment.
+Another benefit of generative models is that they can help us create new data. For example, if we need to create a set of data for testing purposes, we can use a generative model to generate the data. This can save us time and effort, and it can also help us ensure that our tests are accurate.
+Finally, generative models can be used to improve machine learning algorithms. By using a generative model to generate data, we can train our machine learning algorithms in a more realistic way. This can lead to better performance and more accurate results.
+There are a few sources of information on generative models that you could explore. The first is the Wikipedia page on the topic, generative models, which provides a good high-level overview of the concepts involved. If you want to go deeper, there are a number of textbooks on the subject. Finally, there are a number of online courses that can teach you about generative models in more detail.
+
+What are Discriminative Models?
+Discriminative models are a type of machine learning model that can be used to predict labels or classifications. For example, a discriminative model could be used to predict whether or not an email is spam. They are a type of machine learning models that is used to predict a target variable based on a set of input features. These models learn the relationship between the input features and the target variable, and then use that relationship to make predictions. Discriminative models are often used for classification tasks, where the goal is to predict which class a instance belongs to. However, they can also be used for regression tasks, where the goal is to predict a continuous value. Discriminative models are typically more accurate than generative models, but they can be more difficult to train. One reason for this is that discriminative models need to learn the distribution of the data, while generative models only need to learn the relationships between the features and the labels. Discriminative models are also more efficient, since they only need to model the relevant information for prediction. In general, discriminative models are better suited for classification tasks, while generative models are better suited for density estimation and unsupervised learning tasks.
+
+Discriminative models work by learning a decision boundary that can best separate the training data points into their respective classes. They learn the relationship between the input features and the target labels. In other words, they learn how to map the input data to the correct label.  Once the decision boundary has been learned, the model can then be used to predict the class label for new data points.
+
+There are different types of discriminative models, including logistic regression, support vector machines, and decision trees. Each type of model has its own strengths and weaknesses, so it is important to choose the right model for the task at hand. Logistic regression is typically used for binary classification tasks, while support vector machines are better suited for more complex tasks. Decision trees can be used for both classification and regression tasks. Thus, it is important to understand the different types of discriminative models in order to choose the right one for the task at hand.
+
+The following are some of the examples of discriminative models:
+
+Logistic regression
+Support vector machines (SVM)
+Linear discriminant analysis
+Decision trees
+Random forest Classifiers
+Difference between Generative & Discriminative Models
+Discriminative models and generative models are two different types of machine learning models. Discriminative models are used to predict the probability of a certain class label, given an input. Generative models, on the other hand, are used to generate new data samples that are similar to the training data. In other words, discriminative models focus on predicting labels, while generative models focus on modeling the distribution of data. The main difference between these two types of models is that discriminative models only need to learn about the relationship between inputs and outputs, while generative models also need to learn about the distribution of data. As a result, discriminative models tend to be more accurate than generative models. However, generative models have the advantage of being able to generate new data samples, which can be useful for tasks such as data augmentation.
+
+Generative models are often easier to train, but they can be less accurate than discriminative models. The choice of model depends on the application and the type of data.
+
+Discriminative models directly model the dependence of the label on the input features. In contrast, generative models first model the joint distribution of the input features and the label, and then use this joint distribution to infer the label for new data points.
+
+Conclusion
+In conclusion, it’s important to understand the difference between generative and discriminative models when working in machine learning. Generative models are used to generate data, while discriminative models are used to discriminate between different classes. Both types of models have their own uses and applications. 
