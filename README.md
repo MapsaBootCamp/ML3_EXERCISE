@@ -6,7 +6,7 @@
 &emsp;&ensp;Save data in SQLight<br>
 &emsp;&ensp;Modeling and optimizing model(Predict house price based on its information)<br>
 &emsp;&ensp;Present most be in an ipynb file<br>
-&emsp;&ensp;Deadline: 1401/10/16<br>
+&emsp;&ensp;Deadline: 1401/10/16<br><br>
 For this week:<br>
 To do📝:<br>
 &emsp;&ensp;California dataset<br>
