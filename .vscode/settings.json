@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "stocks_conn",
+            "database": "stocks",
+            "username": "amin",
+            "password": "3232"
+        }
+    ]
+}
