@@ -1,0 +1,24 @@
+It's my understanding that most types of common classifiers (Support Vector Machine, for example) can take a mixture of categorical and continuous predictors.
+
+However, this doesn't seem to be true for Naive Bayes, since I need to specify the likelihood distribution a priori.
+
+What should I do if I want to run Naive Bayes for a mixture of categorical and continuous predictors?
+
+answer:
+You can use any kind of predictor in a naive Bayes classifier, as long as you can specify a conditional probability p(x|y) of the predictor value x given the class y. Since naive Bayes assumes predictors are conditionally independent given the class, you can mix-and-match different likelihood models for each predictor according to any prior knowledge you have about it.
+
+For example, you might know that p(x|y) for some continuous predictor is normally distributed. Simply estimate the mean and variance for this variable under each class in the training set; then use PDF of the Normal distribution to estimate p(x|y) for new unlabeled instances. Similarly, you can use the sufficient statistics and PDF of any other continuous distribution as appropriate.
+
+If some other predictor in the classifier is categorical, that's fine. Simply estimate p(x|y) using a Bernoulli or multinomial event model as you normally would, and multiply the two conditional probabilities together in the final prediction (since they are assumed to be independent anyway).
+
+Side Note: It isn't strictly the case that SVMs and other discriminative linear models take a mixture of categorical and continuous predictors. You can interpret SVMs as only taking continuous predictors, with values in {0,1} for categorical variables as a special case.
+
+
+other answer:
+Another simple approach to handling continuous predictors is to "bin" your continuous variables:
+
+A common example is to split time of day (continuous, numeric) into AM and PM, for instance.
+
+You can potentially capture more information by increasing the # bins (e.g. split 24 hours into 4 6-hour periods); however, this also increases your model's sensitivity to noisy data so you need to be careful.
+
+Based on my experience I'd recommend this approach if you have one/few continuous predictors among many categorical predictors.

@@ -1,0 +1,16 @@
+We usually train a machine learning model to produce a single value or a single label as the output. But when the number of output classes is greater than one, this is the problem of multiclass classification. One-vs-all and One-vs-one are the two main machine learning approaches for solving a multiclass classification problem.
+
+One-vs-all and One-vs-one
+One-vs-all and One-vs-one are the two main machine learning approaches for solving a multiclass classification problem. In both of these approaches, the choice is transparent and the output returned to the user will always be the final values or classes. But it is very important to understand these two approaches to optimize a machine learning model and to always choose the best approach while solving a multiclass classification problem. So let’s go through both these multiclass classification approaches one by one to understand how they work.
+
+One-vs-all:
+One-vs-all is probably the most common strategy and it is widely adopted in most of the machine learning algorithms provided by the scikit-learn library in Python. In this approach, the n number of classification models are trained in parallel with the n number of the output classes by considering that there is always a separation between the actual class and the remaining classes.
+
+This approach is relatively light, so it is normally the default choice for most classification algorithms provided by the scikit-learn library. So, to implement this approach, you don’t need to use any special method.
+
+One-vs-one:
+One-vs-one is an alternative approach to One-vs-all. This means training a machine learning model for each pair of classes. The time complexity of this approach is therefore not linear and the right class is determined by the majority class. In general, One-vs-one is more expensive than One-vs-all and it should only be adopted when a comparison of the complete data set is not preferred.
+
+
+Summary
+One-vs-all and One-vs-one are the approaches in machine learning for solving a multiclass classification problem. In general, One-vs-one is more expensive than One-vs-all and it should only be adopted when a comparison of the complete data set is not preferred. Whereas One-vs-all is probably the most common strategy and it is widely adopted in most of the machine learning algorithms provided by the scikit-learn library in Python.
