@@ -1,0 +1,24 @@
+علت استفاده از توابع لگاریتمی و یا نمایی برای اثبات قضایا چیست؟
+
+وقتی داده ها در هنگام رسم نمودار دارای چوله زیاد باشند یعنی مقادیر به مقدار زیادی از هم فاصله داشته باشند نمیتوان از این نوع داده ها در مقیاس خطی اطلاعات کافی را به دست اورد .
+برای همین از توابع نمایی و لگاریتمی استفاده میشود تا رسم نمودار قابل فهم تر باشد هم اینکه این توابع برای تغییر درصد و عوامل ضریب بسیار کارامد هستند
+توضیح تغییر درصد ضرایب در زیر نوشته شده
+
+
+In mathematics, log means natural logarithm by default; the burden of explanation is on anyone taking logarithms to a different base. I elaborate on this a little here.
+
+Looking through Andrew Gelman and Jennifer Hill’s regression book, I noticed a justification for natural logarithms I hadn’t thought about before.
+
+We prefer natural logs (that is, logarithms base e) because, coefficients on the natural-log scale are directly interpretable as approximate proportional differences: with a coefficient of 0.06, a difference of 1 in x corresponds to an approximate 6% difference in y, and so forth.
+
+This is because
+
+exp(x) ≈ 1 + x
+
+for small values of x based on a Taylor series expansion. So in Gelman and Hill’s example, a difference of 0.06 on a natural log scale corresponds to roughly multiplying by 1.06 on the original scale, i.e. a 6% increase.
+
+The Taylor series expansion for exponents of 10 is not so tidy:
+
+10x ≈ 1 + 2.302585 x
+
+where 2.302585 is the numerical value of the natural log of 10. This means that a change of 0.01 on a log10 scale corresponds to an increase of about 2.3% on the original scale.
