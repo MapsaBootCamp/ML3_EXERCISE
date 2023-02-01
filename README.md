@@ -1,2 +1,5 @@
-# ML3_EXERCISE
-Mapsa machine learning autumn 1401
+# Week 11 :
+
+⚪️ Lesson 📖:<br>
+&emsp;&ensp;1- GridSearchCV <br>
+&emsp;&ensp;2- Decision
