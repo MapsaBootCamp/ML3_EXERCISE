@@ -8,7 +8,7 @@
  
 
 ⚪️ To do📝:<br>
-کار بر روی دیتا ست هدا
+کار بر روی دیتا ست هدا<br>
 (https://github.com/amir-saniyan/HodaDatasetReader)
 &emsp;&ensp;a.	مدلسازی به دو روش sequential و functional <br>
 &emsp;&ensp;b.	تغییر تعداد لایه ها و نورن ها و مقایسه نتایج<br>
