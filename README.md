@@ -5,4 +5,4 @@
 &emsp;&ensp; 1-1 OpenCV Library <br>
 &emsp;&ensp; 1-2 Ensemble, XGBoost, SVM, KNN, Logistic<br>
 <br>
-&emsp;&ensp; 2- Unsupervised Model on DataSet Student<br>
+&emsp;&ensp; 2- Clustering Model on DataSet Student<br>
