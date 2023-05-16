@@ -1,8 +1,8 @@
 # Week21 :
 
 ⚪️ Lesson 📖:<br>
-&emsp;&ensp;1- Generative Models
-&emsp;&ensp;2- Auto-Encoder
+&emsp;&ensp;1- Generative Models <br>
+&emsp;&ensp;2- Auto-Encoder <br>
 &emsp;&ensp;3- GAN <br>
  
 
